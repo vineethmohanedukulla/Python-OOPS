@@ -1,0 +1,19 @@
+Keyword ID Name Department Salary Type
+NEW 101 Jane Jameson CS 10000 F
+NEW 156 Sam Samuelson IT 9000 P
+NEW 104 Bob Boberson CS 9500 F
+NEW 136 Tim Thomason IT 10000 P
+RAISE 104
+PAY
+NEW 188 Mike Michaelson IS 8000 F
+NEW 190 Jason Jasonson IS 7500 P
+RAISE 101 5
+RAISE 190 10
+PAY
+PAY
+RAISE 101
+PAY
+PAY
+FIRE 188
+PAY
+PAY
