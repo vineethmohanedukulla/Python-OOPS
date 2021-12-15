@@ -7,9 +7,7 @@ Email: vekfd@umsystem.edu
 ```
 ---
 ```
-Partner Name: Maheshwarao badarapu
-Partner Email: mbfb6@umsystem.edu
-Partner ICP-Link: https://github.com/UMKC-APL-PythonDeepLearing/icp-3-Maheswarrao1
+
 ```
 <br/>
  
